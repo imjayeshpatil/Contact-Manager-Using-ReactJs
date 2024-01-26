@@ -1,0 +1,9 @@
+Rest API
+
+GET All contacts
+
+get method : https://localhost:4000/contacts
+
+Get Single Contact
+
+Get method : https://localhost: 4000/contacts/id

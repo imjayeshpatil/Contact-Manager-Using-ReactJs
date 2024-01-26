@@ -1,0 +1,16 @@
+Back-End Setup
+
+
+
+1. Create new server folder contact-manager
+2. Create new db.json file inside server
+3. Install package.json inside server folder
+command:  npm init --yes
+4.Install json server inside server Folder
+command: npm install json-server
+5.Setup localhost for json-server
+Step-1: Open Server folder ,get inside open package.json
+
+replace: "test":""
+          with
+          "start":"json-server --watch db.json -p 9000" (Port no Shold not be same as react application)

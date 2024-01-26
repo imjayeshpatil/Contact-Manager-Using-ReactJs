@@ -1,0 +1,21 @@
+1.Create new React aplication 
+COMMAND :npx create-react-app app-name
+
+2.INSTALL BOOTSTRAP
+WEBSITE : npm bootstap 5
+COMMAND : npm install bootstrap
+
+3.INSTALL FONT-AWESOME
+WEBSITE: npm fortawesome/free fortawesome
+COMMAND : npm i @fortawesome/fontawesome-free
+
+4.CONNECT FONTAWESOME CDN LINK WITH HTML PAGE
+WEBSITE: AJX FONTAWESOME CDN  LINK
+
+LINK: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+5.INSTALL AXIOS
+COMMAND: npm install axios
+
+6.INSTALL REACT-ROUTER-DOM
+COMMAND: npm install react-router-dom
